@@ -170,7 +170,7 @@ function Search({ panTo }) {
   };
 
   const handleSelect = async (address) => {
-    setValue("", false);
+    setValue(address, false);
     clearSuggestions();
 
     try {
