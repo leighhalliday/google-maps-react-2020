@@ -5,7 +5,7 @@ This video covers a **Bear Sighting** React App where we learn how Google Maps, 
 ## Links
 
 - Source Code: https://github.com/leighhalliday/google-maps-react-2020
-- Video: Coming soon
+- Video: https://youtu.be/WZcxJGmLbSo
 - Google Maps React: https://www.npmjs.com/package/@react-google-maps/api
 - Google Places React: https://www.npmjs.com/package/use-places-autocomplete
 - Reach Combobox: https://reacttraining.com/reach-ui/combobox/
