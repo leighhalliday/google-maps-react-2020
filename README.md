@@ -18,3 +18,4 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 
 - Maps JavaScript API
 - Places API
+- Geocoding API
